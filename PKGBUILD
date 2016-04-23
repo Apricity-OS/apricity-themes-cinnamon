@@ -2,7 +2,7 @@
 
 _pkgname='Apricity Themes'
 pkgname=apricity-themes-cinnamon
-pkgver=0.0.6
+pkgver=1.0.1
 pkgrel=1
 pkgdesc='Cinnamon Assets for Apricity OS'
 arch=(any)
