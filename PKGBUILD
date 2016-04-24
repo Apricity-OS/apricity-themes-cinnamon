@@ -2,7 +2,7 @@
 
 _pkgname='Apricity Themes'
 pkgname=apricity-themes-cinnamon
-pkgver=1.0.2
+pkgver=1.0.3
 pkgrel=1
 pkgdesc='Cinnamon Assets for Apricity OS'
 arch=(any)
@@ -13,7 +13,7 @@ replaces=(apricity-themes)
 conflicts=(apricity-themes, apricity-themes-gnome)
 provides=(apricity-themes)
 source=("apricity-themes-cinnamon.tar.gz")
-sha256sums=('42772cd6fd57a06ca0b4eb742c8453e52190d8df88b476d4a4c1524cc906bb87')
+sha256sums=('2bb308fa94f24579623f7a43027616a673bdb7affcb5f4367644b9516d17217e')
 install="apricity-themes-cinnamon.install"
 
 package() {
